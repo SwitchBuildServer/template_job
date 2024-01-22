@@ -8,7 +8,7 @@ TEMPLATE_BRANCH=dev
 
 REPO_URL=https://github.com/ProjectMatrixx/android.git
 REPO_BRANCH=14.0
-#REPO_PARAMS=
+REPO_PARAMS=--git-lfs
 
 LOCAL_MANIFEST_URL=https://github.com/SOVIET-ANDROID/local_manifests.git
 LOCAL_MANIFEST_BRANCH=matrix-14.0
