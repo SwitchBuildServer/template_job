@@ -10,7 +10,7 @@ REPO_URL=https://github.com/ProjectMatrixx/android.git
 REPO_BRANCH=14.0
 REPO_PARAMS=--git-lfs
 
-LOCAL_MANIFEST_URL=https://github.com/SOVIET-ANDROID/local_manifests.git
+LOCAL_MANIFEST_URL=https://github.com/SwitchBuildServer/local_manifests_matrix
 LOCAL_MANIFEST_BRANCH=matrix-14.0
 
 DEVICE_NAME=raphael
