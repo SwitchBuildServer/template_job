@@ -14,4 +14,3 @@ echo "Other stuff running"
 # example command to change clang
 rm -rf prebuilts/clang/host/linux-x86
 git lfs clone https://gitlab.com/yaosp/prebuilts_clang_host_linux-x86 prebuilts/clang/host/linux-x86
-rm -rf packages/apps/Calendar
