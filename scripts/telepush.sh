@@ -3,7 +3,7 @@
 #!/bin/bash
 
 # Zmienne
-TOKEN="6792811783:AAFNLodnIhBsbTWpchxSqv51075nFzuwlVo"
+TOKEN=""
 CHAT_ID="-4116581447"
 MESSAGE=$1
 
