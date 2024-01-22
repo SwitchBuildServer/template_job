@@ -6,16 +6,16 @@
 TEMPLATE_URL=https://github.com/SwitchBuildServer/template_job
 TEMPLATE_BRANCH=dev
 
-REPO_URL=https://github.com/DerpFest-AOSP/manifest.git
-REPO_BRANCH=14
+REPO_URL=https://github.com/ProjectMatrixx/android.git
+REPO_BRANCH=14.0
 #REPO_PARAMS=
 
-LOCAL_MANIFEST_URL=https://github.com/SwitchBuildServer/local_manifests
-LOCAL_MANIFEST_BRANCH=dev
+LOCAL_MANIFEST_URL=https://github.com/SOVIET-ANDROID/local_manifests.git
+LOCAL_MANIFEST_BRANCH=matrix-14.0
 
 DEVICE_NAME=raphael
-ROM_LAUNCH_PREFIX=derp
-BUILD_TYPE=userdebug
+ROM_LAUNCH_PREFIX=lineage
+BUILD_TYPE=user
 
 # config git becouse is needed
 git config --global user.name "customrom"
